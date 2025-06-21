@@ -3,8 +3,6 @@
     {
       "tensorName": "Caparizz",
       "tensorShape": [133, 3072],
-      "label": "title",
-      "color": "album",
       "tensorPath": "https://raw.githubusercontent.com/buonhobo/caparizz/refs/heads/main/data.tsv",
       "metadataPath": "https://raw.githubusercontent.com/buonhobo/caparizz/refs/heads/main/metadata.tsv"
     }
